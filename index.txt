@@ -1,0 +1,35 @@
+gg
+okay hes talking about not using md5 i wonder if hes going to ask "what security hash should you NOT use" on the final or something
+but even if it is on the final he'd go over it later as final review anyway so
+
+cataloging ip address logins
+
+php security
+
+checklogin.php
+
+final exam = similar to midterm, short answer
+
+-sql statements
+	- select from a table
+		i. select A,B,C from Tab1 where C>12 and B="DOG";
+	- insert into a table
+		i. insert into table x values ()
+	- update table
+		i. update table x set a="rrr" whre c>12;
+	- delete from table
+		i. delete form table x where...
+	- create a table
+		i. create table x (name varchar(10), price int)
+	- explain difference between varchar() and char()
+	- identify mysql data type varchar(), char(), int, float
+	
+-php and sql
+	- explain structure of php sites and mysql servers
+	- explain idea of ports and mysql
+	
+-php security
+	- explain concepts of access and validation
+	- explain what a password is how it is stored
+	
+dont forget to turn in all projects on day of final
